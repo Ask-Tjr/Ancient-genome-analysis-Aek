@@ -22,3 +22,6 @@ Indonesia_Tanimbar_Makatian
 Indonesia_Tanimbar_Fordata
 
 This Population make ancient sample projection disperse abnormally
+
+:::parameter:::
+Clean modern with --geno 0.1 --maff 0.05
