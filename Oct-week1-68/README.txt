@@ -1,7 +1,7 @@
-This Plot use S-SE population 
-which had exculde Out-gruop such as Ethnic groups (Maniq, Mlabri) AND Indonesian Islander
+This Plot uses S-SE populations
+which exculded Out-group [Ethnic groups (Maniq, Mlabri) AND Indonesian islanders]
 
-####### Exculded population #######
+####### Exculded populations #######
 
 Maniq
 Mlabri
@@ -21,7 +21,7 @@ Indonesia_Tanimbar_SangliatDol
 Indonesia_Tanimbar_Makatian
 Indonesia_Tanimbar_Fordata
 
-This Population make ancient sample projection disperse abnormally
+This population makes ancient sample projection disperse abnormally
 
 :::parameter:::
 Clean modern with --geno 0.1 --maff 0.05
